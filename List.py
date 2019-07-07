@@ -9,10 +9,10 @@ set_grades = {6, 45, 200, 29, 402, 35, 45}  # unordered & unique: repeated value
 
 print(set_grades)
 
-grades.append(10)  # to add an  element at the and of grades
+grades.append(10)  # to add an  element at the and of the list
 print(grades)
 
-tuple_grades = tuple_grades + (150,)
+tuple_grades = tuple_grades + (150,)  # !!! ,is must have
 print(tuple_grades)
 
 print(tuple_grades[4])

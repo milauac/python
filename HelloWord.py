@@ -30,5 +30,5 @@ def my_mulptiply_method(number_one, number_two):
     return number_one*number_two
 
 
-result = my_mulptiply_method(7, 90)
+result = my_mulptiply_method(5, "h")
 print(result)
